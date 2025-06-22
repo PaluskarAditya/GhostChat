@@ -23,7 +23,7 @@ export default function App() {
         
         {/* App name with subtle glow */}
         <h1 className="text-3xl font-bold text-gray-100 mb-2 tracking-tighter">
-          Ghost<span className="text-purple-400">Chat</span>
+          Chat<span className="text-purple-400">Ghost</span>
         </h1>
         
         {/* Tagline */}

@@ -110,10 +110,10 @@ export default function Chat() {
       <header className="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 px-4 sm:px-6 py-3 sm:py-4 flex items-center justify-between">
         <div className="flex items-center space-x-3">
           <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-lg bg-gradient-to-r from-indigo-500 to-purple-600 flex items-center justify-center text-white font-bold">
-            GC
+            CG
           </div>
           <div>
-            <h1 className="text-lg font-semibold text-gray-900 dark:text-white">GhostChat</h1>
+            <h1 className="text-lg font-semibold text-gray-900 dark:text-white">ChatGhost</h1>
             <p className="text-xs text-gray-500 dark:text-gray-400">Room: {id}</p>
           </div>
         </div>
